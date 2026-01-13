@@ -295,7 +295,7 @@ classes={
 				"speed":-3,
 			},
 			"crossbow":{
-				"apiercing":120,
+				"apiercing":240,
 				"frequency":-36,
 			}
 		},
